@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Ivan Jeffrey R. Vergara
 
-<!--
-**ivergara-qa/ivergara-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software QA professional with **11+ years of experience in Manual Testing**, 
+including roles as QA Shift Lead, Senior QA Analyst, Trainer, and Point of Contact.
 
-Here are some ideas to get you started:
+### 🔍 QA Expertise
+- Manual Functional & Regression Testing
+- Test Case Design & Test Planning
+- Defect Tracking & Root Cause Analysis
+- Agile / Scrum / SDLC
+- UAT & Cross-team Collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Technologies
+- Jira, TestRail
+- SQL (Basic)
+- Postman (API Testing – Manual)
+- GitHub, Markdown
+- Web & Mobile Testing
+
+### 📂 Featured QA Projects
+Below are sample projects that demonstrate my QA process, documentation, and testing mindset.
+
+📧 Contact: https://www.linkedin.com/in/ivan-jeffrey-vergara-333a98173/
